@@ -15,17 +15,19 @@ $$ n \le 10^5 $$
 ### Examples
 
 ## Solution
+
+
+
+## Approach
 Brute force approach would be to iterate over all the substrings i.e. `O(n^2)` and check the count of each alphabet.
-
-All single characters i.e. `n` are wonderful substrings.
-What about all the substrings of length 2?
-
 
 #### Optimization step:
 How about finding the number of substrings that are not wonderful. i.e. strings which contain at least 2 odd repetitions.
 
-## Approach
+All single characters i.e. `n` are wonderful substrings.
+What about all the substrings of length 2?
 If a substring has 2 odd repetitions all its super strings are invalid. How to utilize this optimization?
+
 For each $i$, find the least $j$ such that $substring(i, j)$ contains at least 2 odd repetitions. We can find that using [[Sliding Window]] approach. #mistake
 
 ### DP approach

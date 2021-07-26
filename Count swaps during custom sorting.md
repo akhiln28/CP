@@ -2,7 +2,8 @@
 created at: 2021-07-09
 author: akhiln
 tags: [problem]
-level:
+level: 1800
+status: pending
 ---
 
 # Count swaps during custom sorting

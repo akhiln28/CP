@@ -9,7 +9,6 @@ Status: done
 
 # Best Sum Any tree path
 
-![Best%20Sum%20Any%20tree%20path%2060618483423243e89d6081fe5c013b4f/Untitled.png](Best%20Sum%20Any%20tree%20path%2060618483423243e89d6081fe5c013b4f/Untitled.png)
 ```cpp
 #include <iostream>
 #include <algorithm>

@@ -12,5 +12,6 @@ A substring is a contiguous sequence of characters in a given string.
 ### Pseudo code
 
 
-## Parents
+## Children
+1. [[Number of Substrings]]
 

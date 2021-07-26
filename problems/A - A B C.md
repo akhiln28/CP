@@ -8,7 +8,7 @@ Source: https://atcoder.jp/contests/arc113/tasks/arc113_a
 Status: done
 ---
 
-# A - A*B*C
+# A - A\*B\*C
 
 Given a positive integer $k$, find the number of triples of positive integers (A,B,C) such that  `A.B.C <= k`. Two triples that only differ in the order of numbers are also distinguished.
 ### **Constraints**
@@ -51,4 +51,4 @@ int main()
 ```
 ### Complexity:
 Time: $O(k\times log^2k)$
-Patterns: [Number%20Theory](Number%20Theory.md)
+Patterns: [[Number Theory]]

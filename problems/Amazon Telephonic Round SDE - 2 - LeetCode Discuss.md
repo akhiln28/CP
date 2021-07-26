@@ -15,7 +15,7 @@ Output : (3,5)
 Follow Up : Print all pairs that sum up to the input number.
 
 We can get the list of all primes less than the given number $n$. And then we can use two pointer technique to find all the pairs that sum up to $n$. As shown below. 
-we are using [Sieve of Eratosthenes - GeeksforGeeks](Sieve%20of%20Eratosthenes%20-%20GeeksforGeeks%20c4fa828f26d748bd8af24fde1bdcfb42.md) 
+we are using [[Sieve of Eratosthenes in 0(n)]]
 ```cpp
 #define max_n 1e6
 // sieve of eratosthenes
@@ -44,7 +44,7 @@ int main()
     get_primes(primes); 
     int n; cin >> n; 
     int i = 0, j = primes.size() - 1; 
-		// two pointer technique
+	// two pointer technique
     while (i < j)
     {
         if (primes[i] + primes[j] == n) 
@@ -58,6 +58,7 @@ int main()
     return 0;
 }
 ```
+Complexity: $
 Patterns: 
 1. [[Two Pointers]]
 2. [[Number Theory]]

@@ -29,4 +29,4 @@ prime factor p of i:
     Mark smallest prime factor of j*p as j
 ```
 
-Patterns: [Number Theory](Number%20Theory.md), [Dp](Dp.md)
+Patterns: [[Number Theory]]

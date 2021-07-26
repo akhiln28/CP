@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "76281657177781fe",
+        "id": "811b7e2dcb727af6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Longest Prefix Sequence.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "de55b7af8ed4da12",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "problems/Longest Increasing Path.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -94,7 +83,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.356698361544689,
+                  "scale": 1.398589118447527,
                   "close": true
                 }
               }
@@ -104,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5,
-    "collapsed": true
+    "width": 457.5
   },
   "right": {
     "id": "7eb4266af0a6ec63",
@@ -149,17 +137,17 @@
     "width": 422.9783935546875,
     "collapsed": true
   },
-  "active": "76281657177781fe",
+  "active": "811b7e2dcb727af6",
   "lastOpenFiles": [
     "Longest Prefix Sequence.md",
-    "problems/Longest Increasing Path.md",
-    "patterns/Trie.md",
-    "Largest Magic Square.md",
-    "patterns/Dp.md",
-    "problems/Allocate Mailboxes.md",
-    "patterns/Cumulative.md",
-    "Number of wonderful substrings.md",
-    "Monotonic.md",
-    "Number of Substrings.md"
+    "patterns/Game.md",
+    "Sum Game.md",
+    "Pending Problems.md",
+    "Number of subtrees in a binary tree.md",
+    "Untitled.md",
+    "patterns/Adjacent Swaps.md",
+    "Count good numbers.md",
+    "Minimum number of adjacent swaps to make a string palindrome.md",
+    "Adjacent swaps for permutation.md"
   ]
 }

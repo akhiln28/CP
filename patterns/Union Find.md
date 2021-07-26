@@ -41,4 +41,3 @@ class union_find
 };
 
 ```
-Patterns: 

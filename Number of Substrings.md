@@ -19,6 +19,3 @@ for (int i = 0; i < n; i++) {
 	}
 }
 ```
-
-## Parents
-1. [Substring](Substring.md)

@@ -7,7 +7,7 @@ Status: waiting
 # Alphonso Questions
 
 1. Sudoku [Valid Sudoku - LeetCode](Valid%20Sudoku%20-%20LeetCode.md) 
-2. S, T strings. Minimum window containing all characters in T [Minimum Window Substring ](Minimum%20Window%20Substring.md) 
+2. S, T strings. Minimum window containing all characters in T [[problems/Minimum Window Substring]]
 3. 3 - three, 5 - five, 15 - tf, .... → from 1 to n, print the encoded string
 4. singly linked list
 5. binary tree, count of valid bsts → [Count the Number of Binary Search Trees present in a Binary Tree - GeeksforGeeks](Count%20the%20Number%20of%20Binary%20Search%20Trees%20present%20in%20a%20Binary%20Tree.md) 

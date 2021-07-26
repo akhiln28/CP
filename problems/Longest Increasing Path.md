@@ -91,4 +91,7 @@ public:
 ```
 ### Complexity:
 $O(n * m)$
-Patterns: [Dp](Dp.md)[Number%20Theory](Number%20Theory.md)[Linear%20DP](Linear%20DP.md)
+
+### References:
+1. [[DAG]]
+2. [[Linear DP]]

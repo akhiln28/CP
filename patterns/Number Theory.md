@@ -15,8 +15,11 @@ level:
 ## Forces
 Questions involving [Permutation](Permutation.md) or [Combination](Combination) 
 
+I think calculating the complexities for number theory algorithms is itself challenging. 
+
 ### Pseudo code
 
 
 ## Parents
+
 
